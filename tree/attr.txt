@@ -1,0 +1,12 @@
+color
+director_rating
+actor_1_rating
+actor_2_rating
+actor_3_rating
+language
+country
+content_rating
+budget_class
+year_class
+dur_class
+success
